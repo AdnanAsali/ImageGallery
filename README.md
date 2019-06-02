@@ -1,7 +1,7 @@
 # ImageGallery
 
 Mini project to show some HTML and CSS skills using Bootstrap and the functionality of Grid system within Bootsrap
-to make your webpage responsive for different screens.
+to make your webpage responsive for different screens and the for the logo I used FontAwesome Library.
 
 ----------------------------------------------------------------------------------------------------------------
 
